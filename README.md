@@ -45,16 +45,17 @@ Otras piezas de la arquitectura:
 
 ## Screenshots
 
-**Portal de odontólogos** — donde el odontólogo carga y envía una orden al laboratorio.
+### Panel del laboratorio (Admin)
+
+<img width="1069" height="908" alt="Gestión de ordenes desde el panel del laboratorio" src="https://github.com/user-attachments/assets/407aa2b7-bb77-4cb1-8df9-188bc370d117" />
+
+### Portal de odontólogos
 <img width="1263" height="844" alt="Gestion de ordenes desde portal de odontologos" src="https://github.com/user-attachments/assets/0aa1edc0-6e96-46b9-a986-19e33ce71d76" />
 
-**Panel del laboratorio (Admin)** — gestión de órdenes/trabajos en curso.
-<img width="1068" height="916" alt="Gestion de ordenes desde el potal de laboratorio" src="https://github.com/user-attachments/assets/8aafb265-628a-4108-b77b-1a5ddd9bff9a" />
-
-**Superadmin** — vista global de tenants/laboratorios (arquitectura multi-tenant).
+### Superadmin
 <img width="1066" height="861" alt="Gestion de Laboratorios" src="https://github.com/user-attachments/assets/c37a77b4-4448-482e-b8a2-65ae20893a2b" />
 
-**Landing pública de un laboratorio** — ejemplo de una de las 4 plantillas disponibles.
+### Landing pública por laboratorio
 <img width="1344" height="905" alt="Plantilla01" src="https://github.com/user-attachments/assets/77f45551-3f2e-4376-962c-0752f6370563" />
 
 ---
