@@ -44,7 +44,26 @@ Otras piezas de la arquitectura:
 
 ## Screenshots
 
+### Superadmin — el dashboard con la lista de tenants/laboratorios o analytics. Esta es la que más "vende" técnicamente, porque prueba visualmente que es multi-tenant de verdad, no un CRUD simple.
 
+<img width="1066" height="861" alt="image" src="https://github.com/user-attachments/assets/c37a77b4-4448-482e-b8a2-65ae20893a2b" />
+
+### Panel del laboratorio (Admin) — el tablero de gestión de trabajos/órdenes (idealmente algo tipo kanban o lista con estados). Es el corazón del producto, lo que usan día a día.
+
+<img width="1068" height="916" alt="image" src="https://github.com/user-attachments/assets/8aafb265-628a-4108-b77b-1a5ddd9bff9a" />
+
+### Portal de odontólogos — la vista donde cargan/envían una orden a un laboratorio. Es la puerta de entrada del flujo, mostrás el segundo tipo de usuario y por qué el producto tiene dos caras.
+
+<img width="1263" height="844" alt="image" src="https://github.com/user-attachments/assets/0aa1edc0-6e96-46b9-a986-19e33ce71d76" />
+
+
+### Landing pages públicas por laboratorio: cada tenant tiene su propio sitio de presentación (portfolio de trabajos), con contenido 100% personalizable y una capa de theming sobre 4 plantillas visuales disponibles.
+
+<img width="1344" height="905" alt="image" src="https://github.com/user-attachments/assets/77f45551-3f2e-4376-962c-0752f6370563" />
+
+<img width="1339" height="901" alt="image" src="https://github.com/user-attachments/assets/c820e0e8-1bf6-40c8-ae96-71073ba4890a" />
+
+<img width="1341" height="909" alt="image" src="https://github.com/user-attachments/assets/4b7f0e26-e69f-4822-9146-dfe45ff76781" />
 
 ---
 
