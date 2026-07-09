@@ -1,9 +1,30 @@
-# CinloLabs
+<p align="center">
+<img src="./assets/cinlolabs_w.svg" width="140">
+</p>
 
 SaaS para digitalizar la gestión operativa de laboratorios de mecánica dental — de la carga de un trabajo a su entrega, todo en un solo lugar.
 
 🔗 **Demo en vivo:** [labs.cinlodev.com](https://labs.cinlodev.com)
 📌 **Estado:** en producción, con primer cliente en fase de testing. En expansión para incorporar a odontólogos como segundo segmento de usuarios.
+
+---
+
+## 📚 Documentation
+
+- 🌍 [Vision](docs/VISION.md)
+- 📖 [Product](docs/PRODUCT.md)
+- ✨ [Features](docs/FEATURES.md)
+- 🖼 [Showcase](docs/SHOWCASE.md)
+- 🏗 [Architecture](docs/ARCHITECTURE.md)
+- 🏢 [Multi-Tenancy](docs/MULTI_TENANCY.md)
+- 🔒 [Security](docs/SECURITY.md)
+- ⚙ [Tech Stack](docs/TECH_STACK.md)
+- 🗄 [Database](docs/DATABASE.md)
+- 💳 [Billing](docs/BILLING.md)
+- ☁ [Infrastructure](docs/INFRASTRUCTURE.md)
+- 🏛 [ADRs](docs/ADRS.md)
+- 📝 [Changelog](docs/CHANGELOG.md)
+- 🗺 [Roadmap](docs/ROADMAP.md)
 
 ---
 
@@ -17,9 +38,10 @@ Diseñé y desarrollé la plataforma de punta a punta: producto, arquitectura, f
 
 ## Stack técnico
 
-- **Frontend:** Next.js, React, Tailwind CSS
+- **Frontend:** Next.js, React, Tailwind CSS (100% Responsive / Mobile-First)
 - **Backend / datos:** Supabase (Postgres, Auth, Row Level Security)
 - **Arquitectura:** Feature-Driven Architecture (FDA)
+- **Experiencia Multi-Dispositivo:** Optimizado para operatoria móvil en laboratorio y consultorio dental
 
 ## Decisiones de arquitectura
 
@@ -47,16 +69,19 @@ Otras piezas de la arquitectura:
 
 ### Panel del laboratorio (Admin)
 
-<img width="1069" height="908" alt="Gestión de ordenes desde el panel del laboratorio" src="https://github.com/user-attachments/assets/407aa2b7-bb77-4cb1-8df9-188bc370d117" />
+<img width="1069" height="auto" alt="Gestión de ordenes desde el panel del laboratorio" src="https://github.com/user-attachments/assets/407aa2b7-bb77-4cb1-8df9-188bc370d117" />
 
 ### Portal de odontólogos
-<img width="1263" height="844" alt="Gestion de ordenes desde portal de odontologos" src="https://github.com/user-attachments/assets/0aa1edc0-6e96-46b9-a986-19e33ce71d76" />
+<img width="1263" height="auto" alt="Gestion de ordenes desde portal de odontologos" src="https://github.com/user-attachments/assets/0aa1edc0-6e96-46b9-a986-19e33ce71d76" />
 
 ### Superadmin
-<img width="1066" height="861" alt="Gestion de Laboratorios" src="https://github.com/user-attachments/assets/c37a77b4-4448-482e-b8a2-65ae20893a2b" />
+<img width="1066" height="auto" alt="Gestion de Laboratorios" src="https://github.com/user-attachments/assets/c37a77b4-4448-482e-b8a2-65ae20893a2b" />
 
 ### Landing pública por laboratorio
-<img width="1344" height="905" alt="Plantilla01" src="https://github.com/user-attachments/assets/77f45551-3f2e-4376-962c-0752f6370563" />
+<img width="1344" height="auto" alt="Plantilla01" src="https://github.com/user-attachments/assets/77f45551-3f2e-4376-962c-0752f6370563" />
+
+### Vistas Móviles (100% Responsive)
+<img width="100%" height="auto" alt="Vistas Móviles y Responsive de CinloLabs" src="./assets/13.webp" />
 
 ---
 
